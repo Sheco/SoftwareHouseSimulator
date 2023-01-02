@@ -1,0 +1,16 @@
+.window {
+  background: #4c49e7;
+  color: #fff;
+}
+
+.window table td {
+  color: #fff;
+}
+
+.window a {
+  color: #fff;
+}
+
+.table .progress {
+  padding: 0px;
+}
